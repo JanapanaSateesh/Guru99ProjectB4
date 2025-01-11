@@ -1,0 +1,248 @@
+2025-01-03 19:49:25,083 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 19:49:27,168 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 19:49:30,393 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 19:49:35,898 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 19:49:37,955 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 19:52:08,793 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 19:52:10,869 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 19:52:12,926 [main] [ERROR] rootLogger:84:Guru99LoginPageObjects.java - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='btnLogin12']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6b3271539f0a9e64d832db93d25e273, findElement {using=xpath, value=//input[@name='btnLogin12']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59270}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59270/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6b3271539f0a9e64d832db93d25e273
+2025-01-03 19:52:18,640 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 19:52:20,716 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:00,878 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:13:02,962 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:06,170 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:13:11,499 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:13:13,584 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:16,300 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:13:21,748 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:13:23,806 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:28,946 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:13:31,024 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:33,710 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:13:39,297 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:13:44,502 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:13:46,588 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:13:49,955 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-03 20:15:39,507 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:15:41,629 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:15:45,543 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:15:50,948 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:15:53,028 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:15:55,735 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:16:01,075 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:16:03,142 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:16:08,749 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:16:10,859 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:16:13,642 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:16:19,198 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:16:24,948 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:16:27,013 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:16:30,169 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-03 20:17:23,024 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:17:25,078 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:17:28,600 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:17:33,826 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:17:35,901 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:17:38,607 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:17:43,872 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:17:45,988 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:19:00,107 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-03 20:20:28,391 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-03 20:21:17,615 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:21:19,682 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:21:22,861 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:21:28,982 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:21:31,077 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:21:33,761 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:21:39,107 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:21:41,160 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:21:46,625 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:21:48,683 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:21:51,314 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:21:57,005 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-03 20:22:02,687 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-03 20:22:04,796 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-03 20:22:07,988 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 09:43:28,618 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 09:43:30,688 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 09:43:34,114 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 09:43:39,406 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 09:43:41,501 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 09:43:44,214 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 09:43:49,666 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 09:43:51,730 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 09:43:56,755 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 09:46:10,978 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-04 09:49:46,958 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-04 09:51:04,395 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-04 10:01:37,062 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 10:01:39,134 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 10:01:42,545 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 10:01:47,752 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 10:01:49,827 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 10:01:53,272 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 10:03:04,780 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 10:03:06,900 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 10:03:10,447 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 10:03:16,482 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 10:03:18,563 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 10:03:21,274 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 10:03:26,534 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 10:03:28,631 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 18:20:53,755 [main] [ERROR] rootLogger:50:Guru99LoginPageObjects.java - null
+2025-01-04 19:27:59,476 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:28:01,557 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:28:05,071 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:28:10,573 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:28:12,666 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:28:15,836 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 19:35:28,161 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:35:30,254 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:35:33,528 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:35:39,114 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:35:41,230 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:35:44,396 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 19:38:21,359 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:38:23,444 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:38:27,154 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:38:33,922 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:38:36,025 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:38:39,216 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 19:52:24,036 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:52:26,123 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:52:29,341 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:52:35,015 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:52:37,107 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:52:39,781 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:52:45,083 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:52:47,157 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:52:52,894 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:52:54,976 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:52:57,617 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:53:03,941 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:53:09,272 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:53:11,371 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:53:14,489 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 19:56:30,391 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:56:32,473 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:56:35,593 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:56:41,153 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:56:43,239 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:56:45,916 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:56:51,297 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:56:53,386 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:56:56,146 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:57:01,388 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:57:03,476 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:57:06,200 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:57:11,453 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 19:57:16,942 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 19:57:19,043 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 19:57:22,489 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 20:01:31,424 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 20:01:33,511 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 20:01:36,952 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-04 20:01:42,257 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 20:01:44,339 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 20:01:47,736 [main] [INFO ] rootLogger:96:Guru99LoginPageObjects.java - Hit Enter
+2025-01-04 20:02:09,567 [main] [INFO ] rootLogger:45:Guru99LoginPageObjects.java - Entered Username
+2025-01-04 20:02:11,691 [main] [INFO ] rootLogger:65:Guru99LoginPageObjects.java - Entered password
+2025-01-04 20:02:14,477 [main] [INFO ] rootLogger:81:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:15:32,956 [main] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:15:35,154 [main] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:15:37,905 [main] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:17:59,390 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:17:59,409 [TestNG-test=test-1] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:18:01,602 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:18:01,675 [TestNG-test=test-1] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:18:04,544 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:18:04,586 [TestNG-test=test-1] [ERROR] rootLogger:83:Guru99LoginPageObjects.java - unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=131.0.6778.205): User or Password is not valid
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.20'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b3f8ff83c102e0a5d91e1251ffbafa7, findElement {value=//input[@name='btnLogin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\Satee\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57143}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57143/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b3f8ff83c102e0a5d91e1251ffbafa7
+2025-01-09 20:18:10,805 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:18:12,924 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:18:15,681 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:18:22,565 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:18:24,697 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:18:27,560 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:18:35,429 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:18:41,130 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:18:43,300 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:18:47,013 [TestNG-test=test-2] [INFO ] rootLogger:95:Guru99LoginPageObjects.java - Hit Enter
+2025-01-09 20:31:32,344 [TestNG-test=test-1] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:31:32,484 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:31:34,428 [TestNG-test=test-1] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:31:34,566 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:31:37,380 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:31:38,248 [TestNG-test=test-1] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:31:44,252 [TestNG-test=test-1] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:31:44,945 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:31:46,312 [TestNG-test=test-1] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:31:47,018 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:31:49,197 [TestNG-test=test-1] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:31:49,633 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:31:54,863 [TestNG-test=test-1] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:31:55,711 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:31:57,775 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:02,731 [TestNG-test=test-2] [INFO ] rootLogger:95:Guru99LoginPageObjects.java - Hit Enter
+2025-01-09 20:32:34,689 [TestNG-test=test-3] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:32:35,089 [TestNG-test=test-5] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:32:35,523 [TestNG-test=test-4] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:32:36,038 [TestNG-test=test-6] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:32:36,859 [TestNG-test=test-3] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:36,995 [TestNG-test=test-2] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:32:37,340 [TestNG-test=test-1] [INFO ] rootLogger:44:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:32:37,602 [TestNG-test=test-4] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:38,108 [TestNG-test=test-6] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:39,084 [TestNG-test=test-2] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:39,419 [TestNG-test=test-1] [INFO ] rootLogger:64:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:32:39,588 [TestNG-test=test-3] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:32:40,815 [TestNG-test=test-4] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:32:41,773 [TestNG-test=test-6] [INFO ] rootLogger:95:Guru99LoginPageObjects.java - Hit Enter
+2025-01-09 20:32:42,003 [TestNG-test=test-2] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:32:43,703 [TestNG-test=test-1] [INFO ] rootLogger:80:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:48:47,474 [TestNG-test=test-5] [INFO ] rootLogger:86:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:48:48,774 [TestNG-test=test-3] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:48:49,110 [TestNG-test=test-6] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:48:49,299 [TestNG-test=test-3] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:48:49,423 [TestNG-test=test-2] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:48:49,532 [TestNG-test=test-6] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:48:49,661 [TestNG-test=test-4] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:48:49,802 [TestNG-test=test-3] [INFO ] rootLogger:86:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:48:50,022 [TestNG-test=test-2] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:48:50,173 [TestNG-test=test-4] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:48:50,313 [TestNG-test=test-1] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 20:48:50,544 [TestNG-test=test-6] [INFO ] rootLogger:101:Guru99LoginPageObjects.java - Hit Enter
+2025-01-09 20:48:50,724 [TestNG-test=test-1] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 20:48:50,761 [TestNG-test=test-2] [INFO ] rootLogger:86:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:48:50,859 [TestNG-test=test-4] [INFO ] rootLogger:86:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 20:48:52,474 [TestNG-test=test-1] [INFO ] rootLogger:86:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 21:06:00,134 [TestNG-test=test-5] [INFO ] rootLogger:87:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 21:06:04,873 [TestNG-test=test-4] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 21:06:05,030 [TestNG-test=test-6] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 21:06:05,065 [TestNG-test=test-2] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 21:06:05,110 [TestNG-test=test-3] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 21:06:05,481 [TestNG-test=test-2] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 21:06:05,581 [TestNG-test=test-6] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 21:06:05,582 [TestNG-test=test-4] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 21:06:05,719 [TestNG-test=test-1] [INFO ] rootLogger:50:Guru99LoginPageObjects.java - Entered Username
+2025-01-09 21:06:05,801 [TestNG-test=test-3] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 21:06:05,903 [TestNG-test=test-1] [INFO ] rootLogger:70:Guru99LoginPageObjects.java - Entered password
+2025-01-09 21:06:06,253 [TestNG-test=test-2] [INFO ] rootLogger:87:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 21:06:06,264 [TestNG-test=test-4] [INFO ] rootLogger:87:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 21:06:06,639 [TestNG-test=test-3] [INFO ] rootLogger:87:Guru99LoginPageObjects.java - Clicked on Login button
+2025-01-09 21:06:07,141 [TestNG-test=test-6] [INFO ] rootLogger:102:Guru99LoginPageObjects.java - Hit Enter
+2025-01-09 21:06:07,591 [TestNG-test=test-1] [INFO ] rootLogger:87:Guru99LoginPageObjects.java - Clicked on Login button

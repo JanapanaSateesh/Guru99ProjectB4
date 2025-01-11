@@ -55,19 +55,5 @@ public class Guru99LoginPageTest extends BaseClass{
 
 	}
 
-	//	@DataProvider
-	//	public String[][] TC1Data() {
-	//		String[][] data=new String[2][2];
-	//		data[0][0]="mngr26593";
-	//		data[0][1]="123Abc@";
-	//		
-	//		data[1][0]="sateesh@gmail.com";
-	//		data[1][1]="Sateesh@123";
-	//		
-	//		//mngr26593 			123Abc@
-	//		//sateesh@gmail.com		Sateesh@123
-	//				
-	//		
-	//		return data;
-	//	}
+
 }

@@ -22,6 +22,7 @@ import com.guru99.utilities.ReadConfigFile;
 public class BaseClass {
 
 	//public WebDriver driver;
+	//change in Stable Branch
 	ReadConfigFile readconfigfiledata;
 	public static ThreadLocal<WebDriver> driver=new ThreadLocal<WebDriver>();
 
